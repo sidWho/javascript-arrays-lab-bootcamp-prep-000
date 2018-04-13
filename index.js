@@ -11,3 +11,8 @@ function destructivelyAppendKitten(kittens){
 function A(kittens){
   
 }
+
+//Test# 4
+function A(kittens){
+  
+}
