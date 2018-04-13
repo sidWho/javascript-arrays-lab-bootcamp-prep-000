@@ -2,6 +2,10 @@
 var kittens = ['Milo', 'Otis', 'Garfield'];
 
 //Test# 2
-function destructivelyAppendKitten(name){
+function destructivelyAppendKitten(kittens){
+  kittens.push('')
+}
+
+function destructivelyAppendKitten(kittens){
   
 }
