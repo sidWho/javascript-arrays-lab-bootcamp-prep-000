@@ -3,9 +3,10 @@ var kittens = ['Milo', 'Otis', 'Garfield'];
 
 //Test# 2
 function destructivelyAppendKitten(kittens){
-  kittens.push('')
+   kittens.push('kitty')
+   return kittens
 }
 
-function destructivelyAppendKitten(kittens){
+function A(kittens){
   
 }
